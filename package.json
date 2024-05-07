@@ -1,13 +1,13 @@
 {
   "name": "@erboladaiorg/tempora-molestiae-exercitationem",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {},
   "author": "erboladai",
   "license": "MIT",
   "dependencies": {
-    "@dramaorg/esse-praesentium-eligendi": "^1.0.4",
+    "@dramaorg/esse-praesentium-eligendi": "^1.1.4",
     "@erboladaiorg/ad-exercitationem-ducimus": "^1.0.0",
     "@erboladaiorg/adipisci-repellendus-corporis": "^1.0.0",
     "@erboladaiorg/asperiores-earum-quaerat": "^1.0.0",
